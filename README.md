@@ -2,6 +2,8 @@
 
 Site de Juliette Amadis, illustratrice spécialisée dans les univers fantasy, western et steampunk. Il réunit son portfolio, ses informations professionnelles, une boutique en ligne en préparation et un espace de gestion local.
 
+Site en ligne : [jamadis.povik.workers.dev](https://jamadis.povik.workers.dev/alternative)
+
 ## Fonctionnalités
 
 ### Site et portfolio
@@ -54,8 +56,6 @@ Les modifications réalisées dans l’administration sont conservées dans le s
 
 - Node.js 22.13.0 ou une version plus récente
 - npm
-
-Le dépôt étant privé, le compte utilisé pour le clonage doit y avoir accès.
 
 ```bash
 git clone https://github.com/Povikk/juliette-amadis-portfolio.git
